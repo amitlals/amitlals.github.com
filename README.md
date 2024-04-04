@@ -3,16 +3,17 @@
 A little bit about me:
 
 - Principal Technical Specialist/Architect. A seasoned IT Architect and Cloud Engineer with rich technology and multi-Cloud exposure. 
-- Helping customers all over the world to accelerate their digital transformation leveraging SAP on Azure
+- Helping customers all over the world to accelerate their digital transformation leveraging SAP workload on Azure
 - Part of the Microsoft SAP SPT [SAP on Azure team](https://aka.ms/saponazure)
 - SAP & Accenture Alumni 
-- 20+ years as an IT pro
+- 24+ years as an IT pro
 - [Technical Certifications Achieved ](https://www.credly.com/users/amitlal-certifications)
+- [Latest SAP on Azure Podcast with Holger April 2024 ](https://www.youtube.com/watch?v=aTRwgu_dx08&t)
 
 ### Connect with me 🤝
 
+amitlal@outlook.com | [X @amitlalamitlal](https://x.com/amitlalamitlal) | [LinkedIn](https://linkedin.com/in/amitlal)
 
-</br>
 
 ## Current projects and interests
 
@@ -29,7 +30,7 @@ A little bit about me:
 
 
 ## 📝 Latest Blog Posts and activities
-
+- [Latest SAP on Azure Podcast with Holger April 2024 ](https://www.youtube.com/watch?v=aTRwgu_dx08&t)
 - [Scenarios for SAP S/4HANA & Azure OpenAI](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/powering-your-business-with-ai-7-unbelievable-whiteboard/ba-p/3790982)
 - [Azure Chaos Studio - Wreak Chaos in your Azure environment](https://www.amitlals.com/blogs/unboxing/introducing-azure-chaos-studio/)
 - [Secure Azure Arc servers onboarding using Conditional Access](https://www.amitlals.com/blogs/posts/azure-arc-secure-service-principal-onboarding-using-conditional-access/)
